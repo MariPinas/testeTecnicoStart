@@ -1,0 +1,39 @@
+# Arquivos binários e objetos do build
+bin/
+obj/
+
+# Arquivos de configuração de usuário
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.svd
+
+# Diretórios de logs
+*.log
+
+# Pacotes NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Pastas de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos gerados pelo Rider
+*.sln.iml
+
+# Arquivos temporários do Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Diretórios de publish
+publish/
+
+# Arquivos de backup
+*.bak
+*.old
+*.tmp
